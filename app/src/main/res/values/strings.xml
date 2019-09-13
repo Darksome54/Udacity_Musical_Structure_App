@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Music</string>
+
+    <!-- Category name for Main [CHAR LIMIT=20] -->
+    <string name="category_my_music">My Music</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_artists">Artists</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_albums">Albums</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_songs">Songs</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_now_playing">Now Playing</string>
+</resources>
